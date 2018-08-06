@@ -266,7 +266,7 @@ bool scanForTag(byte *tagData)
   digitalWrite(mod, LOW);
 
     Serial.begin(115200);
-  Serial.println("Welcome to the RFIDuino Serial Example. Please swipe your RFID Tag.");
+  Serial.println("Welcome. Please swipe your RFID Tag.");
       
       }
 
