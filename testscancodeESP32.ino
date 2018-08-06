@@ -1,9 +1,10 @@
 
 // EM4095.ino: Base firmware
 //
-// Copyright 2016 Theodore C. Yapo
-//
-// released under MIT License (see file)
+// Copyright 2018 Alexandro Todeschini
+// inspiraded from RFIDino and others library
+// library is free to use 
+// released under GNU (see file)
 
 #define DELAYVAL    320   //384 //standard delay for manchster decode
 #define TIMEOUT     7000  //standard timeout for manchester decode
