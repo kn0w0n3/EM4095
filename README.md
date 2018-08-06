@@ -8,6 +8,7 @@ Unique change paramter is timeout
 
 '#define TIMEOUT     7000  //standard timeout for manchester decode'
 
+change this parameter to adpt at your board clock : 
 1000 for arduino mega devices (16mhz)
 about 7000 for esp32 and similar (80mhz)
 
