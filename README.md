@@ -1,5 +1,5 @@
 
-ESP32 porting library from RFIDino and Crypter ESP8266 library
+EM4095 RFID CHIP to ESP32 porting library from RFIDino and Crypter ESP8266 library
 
 You can use it with esp32 library for arduino, also use for other boards.
 
