@@ -6,8 +6,8 @@
 // library is free to use 
 // released under GNU (see file)
 
-#define DELAYVAL    500   //384 //standard delay for manchster decode
-#define TIMEOUT     5500 //standard timeout for manchester decode
+#define DELAYVAL    384   //384 //standard delay for manchster decode
+#define TIMEOUT     2000 //standard timeout for manchester decode at  160mhz
 
 // pin configuration
 int demodOut=27;
